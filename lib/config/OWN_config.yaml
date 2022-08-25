@@ -1,0 +1,123 @@
+GPUID: 0
+WORKERS: 20
+PRINT_FREQ: 1000
+SAVE_FREQ: 10
+PIN_MEMORY: False
+OUTPUT_DIR: 'licenseoutput'
+pretrainfilename: '/mnt/COCA_20000.txt'
+CUDNN:
+  BENCHMARK: True
+  DETERMINISTIC: False
+  ENABLED: True
+
+imagesize:
+  w: 64
+  h: 256
+DATASET:
+  DATASET: icdar2015
+  ROOT: a
+  JSON_FILE: {'train': 'lib/dataset/txt/icdartrain.txt', 'val': 'lib/dataset/txt/icdartest.txt'}
+  SCALE_FACTOR: 0.25
+  ROT_FACTOR: 30
+  STD: 0.193
+  MEAN: 0.588
+  ALPHABETS: './alphabets.py'
+
+mysynthtext:
+  root: '/mnt/mjsynthtext/ramdisk/max/90kDICT32px'
+
+TRAIN:
+  BATCH_SIZE_PER_GPU: 200
+  SHUFFLE: True
+  BEGIN_EPOCH: 0
+  END_EPOCH: 400
+  RESUME:
+    IS_RESUME: False
+    FILE: './checkpoint_80_acc_0.0000.pth'
+  OPTIMIZER: 'adam'
+  LR: 0.0001
+  WD: 0.0
+  LR_STEP: [60, 80]
+  LR_FACTOR: 0.1
+  MOMENTUM: 0.0
+  NESTEROV: False
+  RMSPROP_ALPHA:
+  RMSPROP_CENTERED:
+  FINETUNE:
+    IS_FINETUNE: False
+    FINETUNE_CHECKPOINIT: 'output/checkpoints/mixed_second_finetune_acc_97P7.pth'
+    FREEZE: False
+
+TEST:
+  BATCH_SIZE_PER_GPU: 200
+  SHUFFLE: True  # for random test rather than test on the whole validation set
+  NUM_TEST_BATCH: 1000
+  NUM_TEST_DISP: 10
+
+MODEL:
+  NAME: 'crnn'
+  IMAGE_SIZE:
+    OW: 280. # origial width: 280
+    H: 32
+    W: 128   # resized width: 160
+  NUM_CLASSES: 84
+  NUM_HIDDEN: 1024
+
+
+
+NUM_CLASSES: 85
+dataset_case_sensitive :  False
+dataset_charset_path :  'lib/models/charset_36.txt'
+dataset_data_aug :  True
+dataset_eval_case_sensitive :  False
+dataset_image_height :  32
+dataset_image_width :  128
+dataset_max_length :  25
+dataset_multiscales :  False
+dataset_num_workers :  14
+dataset_one_hot_y :  True
+dataset_pin_memory :  True
+dataset_smooth_factor :  0.1
+dataset_smooth_label :  False
+dataset_test_batch_size :  384
+dataset_test_roots :  ['data/evaluation/IIIT5k_3000', 'data/evaluation/SVT', 'data/evaluation/SVTP', 'data/evaluation/IC13_857', 'data/evaluation/IC15_1811', 'data/evaluation/CUTE80']
+dataset_train_batch_size :  384
+dataset_train_roots :  ['data/training/MJ/MJ_train/', 'data/training/MJ/MJ_test/', 'data/training/MJ/MJ_valid/', 'data/training/ST']
+dataset_use_sm :  False
+global_name :  'train-abinet'
+global_phase :  'train'
+global_seed :  None
+#global_stage :  train-super
+global_workdir :  'workdir\train-abinet'
+model_alignment_loss_weight :  1.0
+model_checkpoint :  None
+#model_ensemble :
+model_iter_size :  3
+#model_language_checkpoint :  workdir/pretrain-language-model/pretrain-language-model.pth
+model_language_detach :  True
+model_language_loss_weight :  1.0
+model_language_num_layers :  4
+model_language_use_self_attn :  False
+model_name :  'modules.model_abinet_iter.ABINetIterModel'
+model_strict :  True
+model_use_vision :  False
+model_vision_attention :  'position'
+model_vision_backbone :  'resnet'
+model_vision_backbone_ln :  3
+model_vision_checkpoint : None #workdir/pretrain-vision-model/best-pretrain-vision-model.pth
+model_vision_loss_weight :  1.0
+optimizer_args_betas :  (0.9, 0.999)
+optimizer_bn_wd :  False
+optimizer_clip_grad :  20
+optimizer_lr :  0.0001
+optimizer_scheduler_gamma :  0.1
+optimizer_scheduler_periods :  [6, 4]
+optimizer_true_wd :  False
+optimizer_type :  'Adam'
+optimizer_wd :  0.0
+training_epochs :  10
+training_eval_iters :  3000
+training_save_iters :  3000
+training_show_iters :  50
+training_start_iters :  0
+training_stats_iters :  100000

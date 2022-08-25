@@ -1,0 +1,100 @@
+D:\learning\dissertation\plate\Dataset\train\images\Cars0.png  KLG1CA2555 
+D:\learning\dissertation\plate\Dataset\train\images\Cars1.png  PGMN112 
+D:\learning\dissertation\plate\Dataset\train\images\Cars2.png  PRENUP 
+D:\learning\dissertation\plate\Dataset\train\images\Cars3.png  DZ17YXR 
+D:\learning\dissertation\plate\Dataset\train\images\Cars4.png  PU18BES 
+D:\learning\dissertation\plate\Dataset\train\images\Cars5.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars6.png  802.11N 
+D:\learning\dissertation\plate\Dataset\train\images\Cars7.png  Y5X213 
+D:\learning\dissertation\plate\Dataset\train\images\Cars8.png  G526JHD 
+D:\learning\dissertation\plate\Dataset\train\images\Cars9.png  MH01AV8866 
+D:\learning\dissertation\plate\Dataset\train\images\Cars10.png  TN37c52765 
+D:\learning\dissertation\plate\Dataset\train\images\Cars11.png  WOR516K 
+D:\learning\dissertation\plate\Dataset\train\images\Cars12.png  MH12BG7237 
+D:\learning\dissertation\plate\Dataset\train\images\Cars13.png  BJR216 
+D:\learning\dissertation\plate\Dataset\train\images\Cars14.png  ALR486 
+D:\learning\dissertation\plate\Dataset\train\images\Cars15.png  TM21BY0166 
+D:\learning\dissertation\plate\Dataset\train\images\Cars16.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars17.png  YSX213 
+D:\learning\dissertation\plate\Dataset\train\images\Cars18.png  M666YOB 
+D:\learning\dissertation\plate\Dataset\train\images\Cars19.png  AFR2011 
+D:\learning\dissertation\plate\Dataset\train\images\Cars20.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars21.png  1RQ 
+D:\learning\dissertation\plate\Dataset\train\images\Cars22.png  YAMRAJ 
+D:\learning\dissertation\plate\Dataset\train\images\Cars23.png  9214 
+D:\learning\dissertation\plate\Dataset\train\images\Cars24.png  HR26BC5514 
+D:\learning\dissertation\plate\Dataset\train\images\Cars25.png  BYHM136 
+D:\learning\dissertation\plate\Dataset\train\images\Cars26.png  FV1232 
+D:\learning\dissertation\plate\Dataset\train\images\Cars27.png  DZ17YXR 
+D:\learning\dissertation\plate\Dataset\train\images\Cars28.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars29.png  9214  police  9214    
+D:\learning\dissertation\plate\Dataset\train\images\Cars30.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars31.png  YD63LB 
+D:\learning\dissertation\plate\Dataset\train\images\Cars32.png  MANISA 
+D:\learning\dissertation\plate\Dataset\train\images\Cars33.png  OX65AWD 
+D:\learning\dissertation\plate\Dataset\train\images\Cars34.png  DL7CN5617 
+D:\learning\dissertation\plate\Dataset\train\images\Cars35.png  AK0188 
+D:\learning\dissertation\plate\Dataset\train\images\Cars36.png  MIDLYPH 
+D:\learning\dissertation\plate\Dataset\train\images\Cars37.png  FAST 
+D:\learning\dissertation\plate\Dataset\train\images\Cars38.png  OMGBCKY 
+D:\learning\dissertation\plate\Dataset\train\images\Cars39.png  MH15BD8877 
+D:\learning\dissertation\plate\Dataset\train\images\Cars40.png  FV1232 
+D:\learning\dissertation\plate\Dataset\train\images\Cars41.png  YNTZDBG 
+D:\learning\dissertation\plate\Dataset\train\images\Cars42.png  BYHM136 
+D:\learning\dissertation\plate\Dataset\train\images\Cars43.png  MH20BQ20 
+D:\learning\dissertation\plate\Dataset\train\images\Cars44.png  INDDL3cBF3907  INDDL2CAG0786      
+D:\learning\dissertation\plate\Dataset\train\images\Cars45.png  IMGROOT 
+D:\learning\dissertation\plate\Dataset\train\images\Cars46.png  MH14  9239  GN    
+D:\learning\dissertation\plate\Dataset\train\images\Cars47.png  5H798  5H799      
+D:\learning\dissertation\plate\Dataset\train\images\Cars48.png  ALR486 
+D:\learning\dissertation\plate\Dataset\train\images\Cars49.png  30461C 
+D:\learning\dissertation\plate\Dataset\train\images\Cars50.png  PU18BES 
+D:\learning\dissertation\plate\Dataset\train\images\Cars51.png  YESBOSS 
+D:\learning\dissertation\plate\Dataset\train\images\Cars52.png  MH15BD8877 
+D:\learning\dissertation\plate\Dataset\train\images\Cars53.png  CH10OSE 
+D:\learning\dissertation\plate\Dataset\train\images\Cars54.png  LTM378 
+D:\learning\dissertation\plate\Dataset\train\images\Cars55.png  9214  police  9214    
+D:\learning\dissertation\plate\Dataset\train\images\Cars56.png  IND  KL  BOSS    
+D:\learning\dissertation\plate\Dataset\train\images\Cars57.png  BKWL324 
+D:\learning\dissertation\plate\Dataset\train\images\Cars58.png  MH01DB0001 
+D:\learning\dissertation\plate\Dataset\train\images\Cars59.png  MH.46.P.1661 
+D:\learning\dissertation\plate\Dataset\train\images\Cars60.png  OS802-HN 
+D:\learning\dissertation\plate\Dataset\train\images\Cars61.png  MMN306 
+D:\learning\dissertation\plate\Dataset\train\images\Cars62.png  WATTUP 
+D:\learning\dissertation\plate\Dataset\train\images\Cars63.png  BIG  TEAM  LA    
+D:\learning\dissertation\plate\Dataset\train\images\Cars64.png  TAXI 
+D:\learning\dissertation\plate\Dataset\train\images\Cars65.png  ORINNIE 
+D:\learning\dissertation\plate\Dataset\train\images\Cars66.png  9214  police  9214    
+D:\learning\dissertation\plate\Dataset\train\images\Cars67.png  MH14BN7077 
+D:\learning\dissertation\plate\Dataset\train\images\Cars68.png  BJR216 
+D:\learning\dissertation\plate\Dataset\train\images\Cars69.png  KWID 
+D:\learning\dissertation\plate\Dataset\train\images\Cars70.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars71.png  LN13CJZ 
+D:\learning\dissertation\plate\Dataset\train\images\Cars72.png  DL7CN5617 
+D:\learning\dissertation\plate\Dataset\train\images\Cars73.png  TN99F2378 
+D:\learning\dissertation\plate\Dataset\train\images\Cars74.png  CZ17KOD 
+D:\learning\dissertation\plate\Dataset\train\images\Cars75.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars76.png  MH-31  EA  RSS    
+D:\learning\dissertation\plate\Dataset\train\images\Cars77.png  HR26CU6799 
+D:\learning\dissertation\plate\Dataset\train\images\Cars78.png  KL54A2670 
+D:\learning\dissertation\plate\Dataset\train\images\Cars79.png  TESLA  4GETOTL      
+D:\learning\dissertation\plate\Dataset\train\images\Cars80.png  alamystock photo  BAD213      
+D:\learning\dissertation\plate\Dataset\train\images\Cars81.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars82.png  UP16TC1366 
+D:\learning\dissertation\plate\Dataset\train\images\Cars83.png  A  U  1  gogle  self-driving car
+D:\learning\dissertation\plate\Dataset\train\images\Cars84.png  HR26BC5514 
+D:\learning\dissertation\plate\Dataset\train\images\Cars85.png  VU63GTY 
+D:\learning\dissertation\plate\Dataset\train\images\Cars86.png  MH14DX9937 
+D:\learning\dissertation\plate\Dataset\train\images\Cars87.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars88.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars89.png  ?? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars90.png  ? 
+D:\learning\dissertation\plate\Dataset\train\images\Cars91.png  30461C 
+D:\learning\dissertation\plate\Dataset\train\images\Cars92.png  ?AD00008 
+D:\learning\dissertation\plate\Dataset\train\images\Cars93.png  cruse 
+D:\learning\dissertation\plate\Dataset\train\images\Cars94.png  NBEYOND 
+D:\learning\dissertation\plate\Dataset\train\images\Cars95.png  ?AD00008 
+D:\learning\dissertation\plate\Dataset\train\images\Cars96.png  PGMN112 
+D:\learning\dissertation\plate\Dataset\train\images\Cars97.png  KA05MG1909 
+D:\learning\dissertation\plate\Dataset\train\images\Cars98.png  NEWYORK  YWORRY      
+D:\learning\dissertation\plate\Dataset\train\images\Cars99.png  KA-09  MA  2662    
